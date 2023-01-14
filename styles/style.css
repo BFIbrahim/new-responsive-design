@@ -31,6 +31,8 @@ hr{
     margin-bottom: 30px;
 }
 
+
+
 /* top players styles */
 
 .section-title{
@@ -153,10 +155,13 @@ mobile devices
     }
     .cource{
         margin-bottom: 50px;
+        padding-bottom: 20px;
     }
     .cource-info{
         justify-content: space-around;
     }
+
+
 }
 
 /* 
